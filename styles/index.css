@@ -10,10 +10,12 @@ body{
 .header h1,.header h3{
     margin: 0px;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .navbar{
     background-color: #4A2545;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .navbar ul{
@@ -69,6 +71,7 @@ th,td,tr{
 th{
     background-color: #4A2545;
     color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 tr:nth-child(even){
     background-color: #cf97bd;
